@@ -1,4 +1,4 @@
-# ankita-html
+# html-learning
 
 <!DOCTYPE html>
 <html lang="en">
