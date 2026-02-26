@@ -37,5 +37,37 @@
 <br>
 <img src="/image.jfif" width="150px" alt="image not found"></br>
 </hr>
+    <hr>
+<!--bold,italic and underlined tag -->
+<br>
+<b>this is a bold</b></br>
+<br>
+<i>this is an italic</i></br>
+<br>
+<u>this is an underlined</u></br>
+<!--big and small tag-->
+<br>
+<big>this is a big</big></br>
+<br>
+<small>this is an small</small></br>
+</hr>
+<!--subscrtpt and superscript-->
+<hr>
+<p>co<sub>2</sub>+o------->co<sub>3</sub></p>
+<p>(a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab</p></hr>
+<!--pre tag-->
+<hr>
+<pre>
+# A simple Python script
+name = input("Enter your name: ")
+print(f"Hello, {name}! Welcome to Python.")
+
+for i in range(3):
+    if i % 2 == 0:
+        print(f"{i} is even")
+    else:
+        print(f"{i} is odd")</pre></hr>
+        </body>
+        </html>
 </body>
 </html>
