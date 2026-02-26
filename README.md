@@ -27,15 +27,11 @@
 <!--example of absolute link -->
 <br>
 <a href ="https://www.amazon.in/">click here for amazon website</a></br>
-<!--example of relative link -->
-<br>
-<a href="about.html">click here for about.html</a></br>
+
 <!--img tag to add images-->
 <br>
 <img src="https://images.unsplash.com/photo-1509043759401-136742328bb3?q=80&w=935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200 px" alt="image can't display">
 </br>
-<br>
-<img src="/image.jfif" width="150px" alt="image not found"></br>
 </hr>
     <hr>
 <!--bold,italic and underlined tag -->
@@ -67,7 +63,33 @@ for i in range(3):
         print(f"{i} is even")
     else:
         print(f"{i} is odd")</pre></hr>
-        </body>
-        </html>
+             <hr>
+     <header>
+        <nav>hllw  good morning </nav>
+     </header>
+     <main>
+        <section>
+        <div>
+            <a href="https://codewithharry.com"target="-main">
+                <img src="https://images.unsplash.com/photo-1626808642875-0aa545482dfb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"alt="harrys website"height="100">
+            </a>
+        </div>
+        </section>
+        <section>
+            <div>
+                <h1>this is an html world</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati unde optio perferendis repudiandae ea tempora doloremque inventore natus accusamus rem iste quasi facilis aspernatur aperiam nisi, officiis, impedit fuga quam?</p>
+            </div>
+        </section>
+        <section>
+            <h1>this is a html</h1>
+            <!--this is an span tag -->
+            <span>this is  a span</span>
+            <span>this is an another span</span>
+        </section>
+    </hr>
+     </main>
+     <footer>this is an footer</footer>
 </body>
 </html>
+        
