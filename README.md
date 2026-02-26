@@ -64,32 +64,7 @@ for i in range(3):
     else:
         print(f"{i} is odd")</pre></hr>
              <hr>
-     <header>
-        <nav>hllw  good morning </nav>
-     </header>
-     <main>
-        <section>
-        <div>
-            <a href="https://codewithharry.com"target="-main">
-                <img src="https://images.unsplash.com/photo-1626808642875-0aa545482dfb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"alt="harrys website"height="100">
-            </a>
-        </div>
-        </section>
-        <section>
-            <div>
-                <h1>this is an html world</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati unde optio perferendis repudiandae ea tempora doloremque inventore natus accusamus rem iste quasi facilis aspernatur aperiam nisi, officiis, impedit fuga quam?</p>
-            </div>
-        </section>
-        <section>
-            <h1>this is a html</h1>
-            <!--this is an span tag -->
-            <span>this is  a span</span>
-            <span>this is an another span</span>
-        </section>
-    </hr>
-     </main>
-     <footer>this is an footer</footer>
+     
 </body>
 </html>
         
